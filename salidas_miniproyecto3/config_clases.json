@@ -1,0 +1,22 @@
+{
+  "clases": [
+    "tuerca",
+    "arandela",
+    "tornillo",
+    "tornillo_largo",
+    "perno_hex"
+  ],
+  "angulos_servo1": {
+    "tuerca": 20,
+    "arandela": 55,
+    "tornillo": 90,
+    "tornillo_largo": 125,
+    "perno_hex": 160
+  },
+  "entrada": [
+    224,
+    224,
+    3
+  ],
+  "preprocesado": "imagen en RGB, redimensionada a 224x224, float32, dividida por 255"
+}

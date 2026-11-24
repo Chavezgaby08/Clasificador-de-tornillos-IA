@@ -1,0 +1,14 @@
+Test accuracy: 0.8800
+Test loss: 0.3639
+
+                precision    recall  f1-score   support
+
+        tuerca      1.000     1.000     1.000        10
+      arandela      1.000     1.000     1.000        10
+      tornillo      0.643     0.900     0.750        10
+tornillo_largo      1.000     0.600     0.750        10
+     perno_hex      0.900     0.900     0.900        10
+
+      accuracy                          0.880        50
+     macro avg      0.909     0.880     0.880        50
+  weighted avg      0.909     0.880     0.880        50

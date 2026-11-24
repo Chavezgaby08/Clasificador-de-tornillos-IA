@@ -1,0 +1,5 @@
+tuerca
+arandela
+tornillo
+tornillo_largo
+perno_hex
